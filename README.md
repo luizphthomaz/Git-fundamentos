@@ -5,4 +5,4 @@
 
 - [x] Alteração remota na README
 
-- [] Vamos lá :smiley:
+- [ ] Vamos lá :smiley:

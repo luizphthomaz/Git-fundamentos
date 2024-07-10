@@ -1,6 +1,8 @@
 # Hello World!
- Primeiro repositório do curso de GITHUB
+ * Primeiro repositório do curso de GITHUB
 
-Repositório criado na primeira aula de Github
+ * **Repositório criado na primeira aula de Github**
 
-Alteração remota na README
+- [x] Alteração remota na README
+
+- [x] Vamos lá :smiley:

@@ -7,5 +7,5 @@
 
 - [ ] Vamos lá :smiley:
 
-> [!Atenção]
+> [!WARNING]
     Preste muita atenção!

@@ -3,6 +3,8 @@
 
  * **Repositório criado na primeira aula de Github**
 
-- [x] Alteração remota na README
+- [x] Alteração remota na README[^1]
 
 - [ ] Vamos lá :smiley:
+
+

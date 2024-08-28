@@ -39,14 +39,15 @@ Termino a tabela
 
  * Acesse a página do GitHub: [GitHub Pages](https://pages.github.com/).
   
- ~~Never say Never~~ 🖖 👽 🥇 🚀
+ ~~Never say Never~~ 🖖 👽 🥇
+
+ ### Fazendo acontecer  🚀
 
  ```
 if (true) {
 console.log('Hello World!')
 }
 ```
-![GitFoto](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
